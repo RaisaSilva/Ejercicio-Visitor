@@ -1,0 +1,11 @@
+se tiene un visitante que hace el rol de cambiar tipos de monedas de acuerdo
+al pais que visita en moneda de dolares y vicevesa.
+
+Pais:
+
+Bolivia
+ - Bolivianos
+Argentina
+ - Pesos
+Brasil
+ - Reales
